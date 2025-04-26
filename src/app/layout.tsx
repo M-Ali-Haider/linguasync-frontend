@@ -34,7 +34,7 @@ export default function RootLayout({
         <Toaster position="bottom-right" />
         <NextThemeProvider
           attribute={"class"}
-          defaultTheme="light"
+          defaultTheme="system"
           enableSystem
           disableTransitionOnChange
         >
